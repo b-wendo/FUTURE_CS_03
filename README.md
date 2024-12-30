@@ -29,9 +29,9 @@ You will be prompted to either register a new user, log in, or exit the program.
 
 
 ## Requirements
-**getpass**: A module used for securely entering passwords (standard in Python).
-**hashlib**: Part of Python's standard library, used for securely hashing passwords.
-**pyfiglet**: A Python library to generate ASCII art text (used for displaying the project title in a stylized format).
+1. **getpass**: A module used for securely entering passwords (standard in Python).
+2. **hashlib**: Part of Python's standard library, used for securely hashing passwords.
+3. **pyfiglet**: A Python library to generate ASCII art text (used for displaying the project title in a stylized format).
 
 
 
